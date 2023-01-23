@@ -1,0 +1,3 @@
+Reading notebook
+Trying to find note with ID: 1
+Creating note: Testing logger

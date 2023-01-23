@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="096a2581-b204-4c55-9501-6f9ae48e4d75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="096a2581-b204-4c55-9501-6f9ae48e4d75" name="Changes" comment="Done">
+      <change afterPath="$PROJECT_DIR$/src/controller/NoteControllable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/LogWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Logable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/NoteManagerDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/NoteOperable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/controller/NoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/NoteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/DateMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/DateMaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Note.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/NoteBookReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/NoteBookReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/NoteManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/NoteManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/NoteMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/NoteMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Saver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Saver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/Commands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Commands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/NoteView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/NoteView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -41,13 +40,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GB\OOP_Seminar6_Homework_Part2" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -70,8 +74,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674313518130</updated>
-      <workItem from="1674313519267" duration="13010000" />
+      <workItem from="1674313519267" duration="13231000" />
+      <workItem from="1674483975819" duration="2854000" />
     </task>
+    <task id="LOCAL-00001" summary="Done">
+      <created>1674327707062</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674327707062</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
 </project>
